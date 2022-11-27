@@ -20,7 +20,7 @@ You don't need to install any dependencies.
 
 ***
 
-### Links
+### Links to web site application
 . GitHub page url: https://github.com/morenamellone92/counter-APP
 . Netlify URL: [https://counter-APP.netlify.app/]
 
