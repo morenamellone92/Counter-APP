@@ -27,9 +27,9 @@ You don't need to install any dependencies.
 ***
 
 ### Built with
-HTML
-CSS
-JAVASCRIPT
+- HTML
+- CSS
+- JAVASCRIPT
 
 
 
