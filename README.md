@@ -15,7 +15,7 @@ There is also a reset button that allows you to reset the counter value to 0.
 
 ***
 
-### Installation
+###Installation
 If you have Git installed on your computer you can clone this repository from your command line typing:
 ```
 $ git clone https://github.com/morenamellone92/counter-APP.git
