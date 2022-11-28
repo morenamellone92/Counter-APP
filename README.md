@@ -4,7 +4,7 @@
 1. ### [Description Project](#descriptionproject)
 2. ### [Installation](#installation)
 3. ### [Links to website application](#links)
-4. ### [Nuild With](#buildwith)
+4. ### [Build With](#buildwith)
 ***
 ***
 ### Description Project
@@ -31,7 +31,7 @@ You don't need to install any dependencies.
 
 ***
 
-### Built with
+### Build with
 - HTML
 - CSS
 - JAVASCRIPT
