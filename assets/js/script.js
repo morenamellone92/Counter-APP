@@ -47,20 +47,19 @@ window.addEventListener("DOMContentLoaded", () => {
     decrementButton();
     resetButton();
     incrementButton();
-  });
+});
   
-  // Change value
-  let ButtonClick = (counter) => {
+// Change value
+let ButtonClick = (counter) => {
+  let text_counter = document.querySelector("#textCounter");
+  counter === "-"
+  ? (text_counter.textContent = --text_counter.textContent) : (text_counter.textContent = ++text_counter.textContent);
+};
+  
+// Restart button with confirm pop-up
+let ResetClick = () => {
+  if (window.confirm("Do you want to reset your counter?")) {
     let text_counter = document.querySelector("#textCounter");
-    counter === "-"
-      ? (text_counter.textContent = --text_counter.textContent)
-      : (text_counter.textContent = ++text_counter.textContent);
-  };
-  
-  // Restart button with confirm pop-up
-  let ResetClick = () => {
-    if (window.confirm("Do you want to reset your counter?")) {
-      let text_counter = document.querySelector("#textCounter");
-      text_counter.textContent = 0;
-    }
-  };
+    text_counter.textContent = 0;
+  }
+};
