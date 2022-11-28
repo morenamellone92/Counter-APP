@@ -1,12 +1,13 @@
 # COUNTER APP
 
 ## OVERVIEW
-1. ### [Description Project](#descriptionproject)
-2. ### [Installation](#installation)
-3. ### [Links to website application](#links)
-5. ### [Build With](#buildwith)
+1. [Description Project](#description-project)
+2. [Installation](#installation)
+3. [Links to WebSite Application](#links-to-website-application)
+4. [Build With](#build-with)
 ***
-## Description Project
+
+### Description Project
 Counter App is a web application that allows you to increase and decrease the value initialized to 0 in the counter, through the implementation of two buttons.
 There is also a reset button that allows you to reset the counter value to 0.
 
@@ -15,7 +16,7 @@ There is also a reset button that allows you to reset the counter value to 0.
 
 ***
 
-## Installation 
+### Installation
 If you have Git installed on your computer you can clone this repository from your command line typing:
 ```
 $ git clone https://github.com/morenamellone92/counter-APP.git
@@ -24,13 +25,13 @@ You don't need to install any dependencies.
 
 ***
 
-## Links to web site application
+### Links to WebSite Application
 - GitHub page url: https://github.com/morenamellone92/counter-APP
 - Netlify page url: https://counter-app-morena-mellone.netlify.app
 
 ***
 
-## Build with
+### Build With
 - HTML
 - CSS
 - JAVASCRIPT
