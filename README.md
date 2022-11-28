@@ -1,10 +1,10 @@
 # COUNTER APP
 
 ## OVERVIEW
-1. [Description Project](#descriptionproject)
+1. [Description Project](#description-project)
 2. [Installation](#installation)
-3. [Links to WebSite Application](#links)
-4. [Build With](#buildwith)
+3. [Links to WebSite Application](#links-to-website-application)
+4. [Build With](#buil-dwith)
 ***
 
 ### Description Project
