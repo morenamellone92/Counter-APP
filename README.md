@@ -1,6 +1,6 @@
 # COUNTER APP
 ***
-## [OVERVIEW]
+## OVERVIEW
 1. ### [Description Project](#descriptionproject)
 2. ### [Installation](#installation)
 3. ### [Links to website application](#links)
