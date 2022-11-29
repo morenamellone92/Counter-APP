@@ -42,10 +42,10 @@ You don't need to install any dependencies.
 ### Contact
 
 I am always looking for collaborators, even just to structure projects together and increase my portfolio, so I leave the link to my website where you will find all the information about me and my social channels.
-Happy travels in my world!
+Happy travels in my world!  
 Morena Mellone.  
 
-[![Alt Text](http://image_url)](http://google.com)
+***
 
 [![logo Morena Mellone](/assets/img/logo-completo.svg)](https://morenamellone92.github.io)
 
