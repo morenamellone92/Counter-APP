@@ -46,8 +46,9 @@ Happy travels in my world!
 Morena Mellone.  
 [Morena Mellone](https://morenamellone92.github.io). 
 
-![Counter](/assets/img/counter.png)
-![logo-completo](/assets/img/logo-completo.svg)  
+[![Alt Text](http://image_url)](http://google.com)
+
+[![logo Morena Mellone](/assets/img/logo-completo.svg)]: https://morenamellone92.github.io "clicca qui per aprire il mio sito web!"
 [logo-completo]: https://morenamellone92.github.io "clicca qui per aprire il mio sito web!"
 
 
