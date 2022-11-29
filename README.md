@@ -44,7 +44,10 @@ You don't need to install any dependencies.
 I am always looking for collaborators, even just to structure projects together and increase my portfolio, so I leave the link to my website where you will find all the information about me and my social channels.
 Happy travels in my world!
 Morena Mellone.  
-[Morena Mellone](https://morenamellone92.github.io)
+[Morena Mellone](https://morenamellone92.github.io). 
+
+[logo]: assets/img/logo-completo.svg
+[logo]: https://morenamellone92.github.io "clicca qui per aprire il mio sito web!"
 
 
 
