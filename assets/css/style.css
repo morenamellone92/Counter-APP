@@ -78,23 +78,23 @@
   footer
   */
   
-  .immagine{
+  .img_footer{
       display: inline-block;
  
   }
   
-  .galleria{
+  .div_gallery{
     width: 20%;
     margin: 16% auto 0 auto;
     text-align: center;
   }
 
-  #social_footer{
+  #img_footer{
     width: 16%;
     margin: 2%;
   }
 
-  #testo_footer{
+  #text_footer{
     margin: 1% auto 0 auto;
     text-align: center;
     width: 100%;
@@ -129,7 +129,7 @@
       width: 30%;
     }
 
-    #testo_footer{
+    #text_footer{
       font-size: 20px;
     }
   }
@@ -152,11 +152,11 @@ small screen
       width: 48px;
     }
 
-    .galleria{
+    .div_gallery{
       width: 33%;
     }
 
-    #testo_footer{
+    #text_footer{
       font-size: 16px;
     }
     }
