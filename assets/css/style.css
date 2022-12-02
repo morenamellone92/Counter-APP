@@ -161,9 +161,13 @@
   
   @media screen and (max-width: 600px) {
      .counter{
+      margin-top: 8px;
        width: 80%;
      }
 
+     .div_button{
+      width: 100%;
+     }
      .container_button{
        width: 100%;
      }
