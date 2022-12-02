@@ -48,6 +48,8 @@
   .container_button {
     display: grid;
     place-items: center;
+    height: 30%;
+
   }
 
 .div_button {
